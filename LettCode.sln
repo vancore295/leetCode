@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LettCode", "LettCode\LettCode.csproj", "{7339238B-993D-4E79-8DD1-B6873CC18ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peoblems", "Peoblems\Peoblems.csproj", "{33E9FD24-43CD-44CA-A042-BEDE5C088C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetTests", "LeetTests\LeetTests.csproj", "{D05D2D8F-83FD-4BF7-BCE5-F09485EF6A0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7339238B-993D-4E79-8DD1-B6873CC18ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7339238B-993D-4E79-8DD1-B6873CC18ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7339238B-993D-4E79-8DD1-B6873CC18ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7339238B-993D-4E79-8DD1-B6873CC18ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E9FD24-43CD-44CA-A042-BEDE5C088C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E9FD24-43CD-44CA-A042-BEDE5C088C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E9FD24-43CD-44CA-A042-BEDE5C088C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E9FD24-43CD-44CA-A042-BEDE5C088C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05D2D8F-83FD-4BF7-BCE5-F09485EF6A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05D2D8F-83FD-4BF7-BCE5-F09485EF6A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05D2D8F-83FD-4BF7-BCE5-F09485EF6A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05D2D8F-83FD-4BF7-BCE5-F09485EF6A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50405916-FFC4-4EE0-9665-1F4197715A60}
+	EndGlobalSection
+EndGlobal
