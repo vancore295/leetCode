@@ -16,10 +16,7 @@ namespace Peoblems
                 if(i == 0)
                 {
                     s += "1";
-                } else if()
-                {
-
-                }
+                } 
             }
 
             return count;
