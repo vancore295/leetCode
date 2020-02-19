@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\LeetTests\LeetTests.csproj" />
     <ProjectReference Include="..\Peoblems\Peoblems.csproj" />
   </ItemGroup>
